@@ -1,2 +1,2 @@
 # hz-tdso.github.io
-welcom to my personal site!
+Hello, welcome to my personal site!
